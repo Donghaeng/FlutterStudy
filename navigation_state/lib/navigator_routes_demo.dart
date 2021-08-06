@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(NavigatoeRoutesDemo());
+void main() => runApp(NavigatorRoutesDemo());
 
-class NavigatoeRoutesDemo extends StatelessWidget {
+class NavigatorRoutesDemo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
